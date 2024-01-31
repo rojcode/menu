@@ -26,5 +26,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any inquiries or feedback, please contact us at [havana@example.com](mailto:rojcode@gmail.com).
+For any inquiries or feedback, please contact us at [rojcode@gmail.com](mailto:rojcode@gmail.com).
 
