@@ -55,7 +55,7 @@ spanInstagram.textContent = '☎️';
 
 // a href phone
 const aPhone = $.createElement('a');
-aPhone.href = 'tel:+989187841841';
+aPhone.href = 'tel:+09210701544';
 aPhone.setAttribute('id', 'call');
 if (lang == 'ku') {
    aPhone.textContent = 'بۆ پەیوەندیکردن بە کافەکە کلیک لەسەرم بکە :)';
@@ -78,7 +78,7 @@ if (lang == 'ku') {
 }
 
 
-modalContentConnect.append(spanInfo, h2Info, pClock, hrClock, pInstagram, spanInstagram, aPhone, hrPhone, hrefMap);
+modalContentConnect.append(spanInfo, h2Info,pConnect,pClock, hrClock, pInstagram, spanInstagram, aPhone, hrPhone, hrefMap);
 
 
 const showModalInfo = () => {
