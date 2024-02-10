@@ -40,6 +40,22 @@ class Styler {
       backgroundColor: "#8B4513",
       color: "#fff"
     },
+    ".phone-button": {
+      position: "fixed",
+      bottom: "20px",
+      left: "20px",
+      backgroundColor: "#cb823e",
+      width: "80px",
+      height: "80px",
+      borderRadius: "50%",
+      display: "flex",
+      alignItems: "center",
+      justifyContent: "center",
+      cursor: "pointer",
+      zIndex: 999
+    },
+    ".phone-button i": { fontSize: "30px" },
+    a: { textDecoration: "none" },
     header: {
       backgroundColor: "#333",
       color: "#fff",
